@@ -1,0 +1,45 @@
+# Build directories
+/build/
+*/build/
+
+# Qt/CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+appUSFAHLoginApp_autogen/
+
+# Qt Creator and Qt user files
+*.pro.user
+*.user
+*.qmake.stash
+
+# Generated sources
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*_aotstats.dir/
+
+# Compiled objects
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+
+# IDEs and OS
+.vscode/
+.idea/
+*.log
+*.DS_Store
+Thumbs.db
+
+# Qt resource output
+qml/qrc_*.cpp
+
+# Other
+build/
+meta_types/
+
+# Keep database folder only if you want to track DB files; otherwise ignore
+# /database/
