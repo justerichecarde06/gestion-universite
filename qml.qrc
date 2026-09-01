@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/logo_usfah.png</file>
+        <file>qml/student/Overview.qml</file>
+        <file>qml/student/ProfileView.qml</file>
+        <file>qml/student/CoursesView.qml</file>
+        <file>qml/student/EnrollmentsView.qml</file>
+        <file>qml/student/GradesView.qml</file>
+        <file>qml/student/ScheduleView.qml</file>
+        <file>qml/student/AttendanceView.qml</file>
+        <file>qml/student/FinanceView.qml</file>
+        <file>qml/student/DocumentsView.qml</file>
+    </qresource>
+</RCC>
